@@ -6,12 +6,12 @@
 #    By: ghwa <ghwa@student.42.fr>                  +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/05/21 13:39:06 by ghwa              #+#    #+#              #
-#    Updated: 2024/08/27 09:07:29 by ghwa             ###   ########.fr        #
+#    Updated: 2025/08/06 02:53:59 by ghwa             ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 CC = c++
-FLAGS = -Wall -Werror -Wextra -std=c++98
+FLAGS = -Wall -Werror -Wextra -std=c++98 -pedantic
 SRCS = main.cpp Fixed.cpp
 OBJS = $(SRCS:.cpp=.o)
 NAME = a.out

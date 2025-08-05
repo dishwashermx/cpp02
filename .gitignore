@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+ex00/Fixed.o
+ex00/a.out
+ex00/main.o
+ex01/Fixed.o
+ex01/a.out
+ex01/main.o
+ex02/Fixed.o
+ex02/a.out
+ex02/main.o
+ex03/Fixed.o
+ex03/Point.o
+ex03/a.out
+ex03/main.o
